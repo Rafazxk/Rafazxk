@@ -1,4 +1,11 @@
-## Hi there 👋
+# 👋 Olá, eu sou Rafael  
+
+🎓 Estudante de **Tecnologia da Informação**  
+💻 Atualmente focado em **Back-end com Node.js**  
+🌐 Experiência também com **HTML, CSS, JavaScript e PHP**  
+📚 Sempre aprendendo e buscando evoluir como desenvolvedor  
+
+🔗 [LinkedIn](https://linkedin.com) | [Portfólio](https://seusite.com)
 
 <!--
 **Rafazxk/Rafazxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
