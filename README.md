@@ -28,7 +28,7 @@
 ## 🌎 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rafazxk)
-[Portfólio](https://seusite.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
 <!--
 **Rafazxk/Rafazxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
