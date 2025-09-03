@@ -26,9 +26,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafazxk&layout=compact&theme=radical)
 
 ## 🌎 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin/rafael.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/Rafazxk)
-[![Portfólio](https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.com)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-%23000000?style=for-the-badge&logo=vercel&logoColor=white)](//repositorio.com)
 <!--
 **Rafazxk/Rafazxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
