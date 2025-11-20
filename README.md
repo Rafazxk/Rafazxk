@@ -16,10 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333?style=for-the-badge&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
 
-## 📌 Projetos em Destaque
-🔹 [**Sistema de Barbearia**](https://github.com/Rafazxk/barbearia) — Agendamento online em PHP + MySQL  
-🔹 [**Clínica de Fisioterapia**](https://github.com/Rafazxk/clinica-fisioterapia) — Sistema de gestão com PHP + SQLite  
-🔹 [**Sistema de Estoque**](https://github.com/Rafazxk/sistema-estoque) — Controle de estoque com JavaScript e LocalStorage  
+## 📌 Projetos em Destaque  
 
 ## 📊 Estatísticas do GitHub
 ![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafazxk&show_icons=true&theme=radical)  
